@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main void(){
-	printf("Hello,GiHub!");
+	printf("Hello,GitHub!");
+	printf("Hello,Git from IntelliJ");
 	return 0;
 }
