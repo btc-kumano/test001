@@ -1,0 +1,3 @@
+﻿C:\RPA\P00052\INPUT\INPUT_A.xlsx
+C:\RPA\P00052\OUTPUT
+AX配賦UL用データ201806_店舗費配賦.xlsx
